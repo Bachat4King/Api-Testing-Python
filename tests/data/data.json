@@ -1,0 +1,28 @@
+{
+    "user_data": [
+        {
+            "name": "morpheus",
+            "job": "leader"
+        },
+        {
+            "name": "test2",
+            "job": "test2"
+        },
+        {
+            "name": "test2",
+            "job": "leader"
+        }
+                ],
+
+    "login_data": [
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "password": "pistol"
+        },
+        {
+            "email": "eve.holt@reqres.in"
+        }
+    ]
+
+}
